@@ -1,3 +1,4 @@
 # tmahdi377.github.io
+Tofik Mahdi
 
-github pages for assignment 1 INST 377 fall 2019 UMCP
+This repository contains code for assignments for INST 377 for the fall 2019 semester at UMCP
